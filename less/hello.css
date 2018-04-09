@@ -1,0 +1,11 @@
+.apple {
+  color: red;
+}
+.apple {
+  font-size: 18px;
+}
+.apple .orange {
+  color: blue;
+  width: 100px;
+  height: 100px;
+}
